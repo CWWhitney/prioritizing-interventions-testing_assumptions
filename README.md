@@ -16,6 +16,8 @@ The purpose of this project is to further investigate and analyze the effectiven
 
 Our approach will involve adapting the decision analysis framework outlined in [Fernandez et al. 2022](https://doi.org/10.1007/s13593-022-00809-0). We will use R programming language to develop Monte Carlo simulations, allowing us to model the uncertainty associated with each intervention's impact on climate change adaptation and mitigation outcomes.
 
+After discussions with Giz Costa Rica, we will update according to their[Manual of Sustainable Agriculture with an Emphasis on Biodiversity and Climate Change](https://www.bpmesoamerica.org/wp-content/uploads/2024/02/Manual-de-agricultura-sostenible-con-e%CC%81nfasis-en-biodiversidad-y-cambio-clima%CC%81tico.pdf) and [Agricultural Biodiversity Check: a biodiversity management tool](https://www.youtube.com/watch?v=nX5xBhodRZ4&list=PLCLTLv2imDrtGrRLsxoXzrxQgA4971f1T&index=10)
+
 ## Impact pathways
 
 These form the basis for the simulations:
