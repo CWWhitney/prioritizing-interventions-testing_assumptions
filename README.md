@@ -4,7 +4,7 @@ This repository contains R code and resources for conducting a deeper assessment
 
 ## Purpose
 
-The purpose of this project is to further investigate and analyze the effectiveness of various farm management interventions in mitigating and adapting to climate change in banana plantations. We aim to expand upon the methodology outlined in the referenced paper by implementing Monte Carlo simulations to assess the uncertainty associated with the most promising decision options.
+The purpose of this project is to further investigate and analyze the effectiveness of various farm management interventions in mitigating and adapting to climate change in banana plantations. We aim to expand upon the methodology outlined in the referenced paper by implementing Monte Carlo simulations to assess the uncertainty associated with the most promising decision options. Essentially, the 'limitations' section of the paper is too long for our taste, and here we are setting out to reduce that section. 
 
 ## What's Included
 
